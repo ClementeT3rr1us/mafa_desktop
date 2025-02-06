@@ -1,7 +1,7 @@
  <h1>Mafa Management System</h1>
 
   
-        I created a simple Management system and inventory to show to a local restaurant (that's why it's in portuguese)
+I created a simple Management system and inventory to show to a local restaurant (that's why it's in portuguese)
         It's a desktop app create with java, jdbc and mysql.
         Honestly say it's not a desktop app only. It's part of a project that contains a desktop app made 
         with java (this), an android app made with java too that is used as menu and a website made with php
